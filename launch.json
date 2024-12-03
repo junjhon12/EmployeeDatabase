@@ -8,7 +8,7 @@
             "mainClass": "Main",
             "projectName": "SoftwareDevFinalProj_dc281050",
             "classpath": [
-                "/Users/michaelgayvoronsky/Desktop/SoftwareDevFinalProj/mysql-connector-j-9.1.0.jar"
+                "/Software Development/EmployeeDatabase/UpdatedSoftwareProj/mysql-connector-j-9.1.0.jar"
             ]
         }
     ]
